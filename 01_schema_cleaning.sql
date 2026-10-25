@@ -9,7 +9,6 @@ CREATE TABLE blinkit (
     Outlet_Location_Type TEXT,
     Outlet_Type TEXT,
     Item_Visibility REAL,
-    Item_Rating REAL,
     Sales REAL
 );
 
