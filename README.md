@@ -1,4 +1,4 @@
-# Blinkit Grocery Sales Analysis
+# Blinkit Grocery Sales Analysis (SQL Project)
 
 ## 📌 Project Overview
 This project uses SQL to analyze Blinkit's grocery sales data. The goal is to calculate key performance indicators (KPIs) and find trends that affect sales, such as product types, store sizes, and locations.
